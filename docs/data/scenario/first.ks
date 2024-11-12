@@ -1,6 +1,6 @@
 *start
 
-[title name="変身"]
+[title name="変"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
