@@ -5,6 +5,12 @@
 [wait time=200]
 [freeimage layer="base"]
 
+使用言語を選んでください。[r]
+Please select your language.[r]
+[link target=*tag_japanese] →日本語　[endlink][r]
+[link target=*tag_english] →English  [endlink][r]
+[s]
+*tag_japanese
 [bg storage=0.png time=500]
 「絶対にクリアできないケーニヒスベルクの橋」[l][r]
 
@@ -120,5 +126,123 @@
 モレダブりなく全ての橋を渡り切ることができますか？[l][r]
 「Enter」でスタート画面に戻る[l][cm]
 [jump target=*start]
+
+
+*tag_english
+[bg storage=0.png time=500]
+「The brigdges at Konigsberg that will never be cleared」[l][r]
+
+[link target=*tag_start] →start　[endlink][r]
+[link target=*tag_rule] →rule   [endlink][r]
+[s]
+*tag_start
+[cm]
+[bg storage=0start.png time=500]
+You are on Island A. Which bridge do you want to cross？[l][r]
+[link target=*tag_1] →Bridge 1　[endlink][r]
+[link target=*tag_2] →Bridge 2  [endlink][r]
+[s]
+*tag_1
+[cm]
+[bg storage=1.png time=500]
+You are on Island C. Which bridge do you want to cross？[l][r]
+[link target=*tag_13] →Bridge 3　[endlink][r]
+[link target=*tag_14] →Bridge 4  [endlink][r]
+[s]
+*tag_13
+[cm]
+[bg storage=13.png time=500]
+You are on Island B. Which bridge do you want to cross？[l][r]
+[link target=*tag_132] →Bridge 2　[endlink][r]
+[link target=*tag_134] →Bridge 4  [endlink][r]
+[s]
+*tag_132
+[cm]
+[bg storage=132.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_134
+[cm]
+[bg storage=134.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_14
+[cm]
+[bg storage=14.png time=500]
+You are on Island B. Which bridge do you want to cross？[l][r]
+[link target=*tag_142] →Bridge 2　[endlink][r]
+[link target=*tag_143] →Bridge 3  [endlink][r]
+[s]
+*tag_142
+[cm]
+[bg storage=142.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_143
+[cm]
+[bg storage=143.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_2
+[cm]
+[bg storage=2.png time=500]
+You are on Island B. Which bridge do you want to cross？[l][r]
+[link target=*tag_23] →Bridge 3　[endlink][r]
+[link target=*tag_24] →Bridge 4 [endlink][r]
+[s]
+*tag_23
+[cm]
+[bg storage=23.png time=500]
+You are on Island C. Which bridge do you want to cross？[l][r]
+[link target=*tag_231] →Bridge 1　[endlink][r]
+[link target=*tag_234] →Bridge 4  [endlink][r]
+[s]
+*tag_231
+[cm]
+[bg storage=231.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_234
+[cm]
+[bg storage=234.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_24
+[cm]
+[bg storage=24.png time=500]
+You are on Island C. Which bridge do you want to cross？[l][r]
+[link target=*tag_241] →Bridge 1　[endlink][r]
+[link target=*tag_243] →Bridge 3  [endlink][r]
+[s]
+*tag_241
+[cm]
+[bg storage=241.png time=500]
+……Sorry,you didn't make across all the bridges……r]
+Return to home[l][cm]
+[jump target=*start]
+*tag_243
+[cm]
+[bg storage=243.png time=500]
+……Sorry,you didn't make across all the bridges……[r]
+Return to home[l][cm]
+[jump target=*start]
+
+*tag_rule
+[cm]
+[bg storage=0.png time=500]
+There are three islands in the sea (Island A,B,C),and four bridges (Bridge1,2,3,4) connecting them.[l][r]
+Now,you have all the bridges to across starting from Island A.[l][r]
+You cannot across a bridge once you have acrossed the bridge, there should not be any bridges you never pass over.[l][r]
+You cannot swim. The only way to move among islands is to across bridges.[l][r]
+Can you across all the bridges by going through each one only once?[l][r]
+Return to home[l][cm]
+[jump target=*start]
+
 
 
