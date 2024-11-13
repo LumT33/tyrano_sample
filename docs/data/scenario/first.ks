@@ -10,9 +10,8 @@ Please select your language.[r]
 [link target=*tag_japanese] →日本語　[endlink][r]
 [link target=*tag_english] →English  [endlink][r]
 [s]
-[cm]
-
 *tag_japanese
+[cm]
 [bg storage=0.png time=500]
 「絶対にクリアできないケーニヒスベルクの橋」[l][r]
 
@@ -131,6 +130,7 @@ Please select your language.[r]
 
 
 *tag_english
+[cm]
 [bg storage=0.png time=500]
 「The brigdges at Konigsberg that will never be completed」[l][r]
 
