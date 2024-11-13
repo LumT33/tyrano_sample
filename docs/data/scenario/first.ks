@@ -130,7 +130,7 @@ Please select your language.[r]
 
 *tag_english
 [bg storage=0.png time=500]
-「The brigdges at Konigsberg that will never be cleared」[l][r]
+「The brigdges at Konigsberg that will never be completed」[l][r]
 
 [link target=*tag_start] →start　[endlink][r]
 [link target=*tag_rule] →rule   [endlink][r]
