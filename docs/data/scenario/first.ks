@@ -35,13 +35,13 @@
 *tag_132
 [cm]
 [bg storage=132.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_134
 [cm]
 [bg storage=134.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_14
@@ -54,13 +54,13 @@
 *tag_142
 [cm]
 [bg storage=142.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_143
 [cm]
 [bg storage=143.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_2
@@ -78,13 +78,13 @@
 *tag_231
 [cm]
 [bg storage=231.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_234
 [cm]
 [bg storage=234.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_24
@@ -97,13 +97,13 @@
 *tag_241
 [cm]
 [bg storage=241.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_243
 [cm]
 [bg storage=243.png time=500]
-……残念!全ての橋を渡りきれませんでした……。
+……残念!全ての橋を渡りきれませんでした……。[r]
 スタート画面に戻る[l][cm]
 [jump target=*start]
 
