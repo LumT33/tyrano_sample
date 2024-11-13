@@ -64,6 +64,7 @@
 スタート画面に戻る[l][cm]
 [jump target=*start]
 *tag_2
+[cm]
 あなたは今島Bにいます。どの橋を渡りますか？[l][r]
 [link target=*tag_23] →橋3　[endlink][r]
 [link target=*tag_24] →橋4 [endlink][r]
