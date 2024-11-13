@@ -126,7 +126,7 @@ Please select your language.[r]
 ただし同じ島には何度でも上陸できるものとします。[l][r]
 また海を泳ぐといった選択肢はありません。移動手段は橋を渡るだけです。[l][r]
 モレダブりなく全ての橋を渡り切ることができますか？[l][r]
-「Enter」でスタート画面に戻る[l][cm]
+スタート画面に戻る[l][cm]
 [jump target=*start]
 
 *tag_changeje
