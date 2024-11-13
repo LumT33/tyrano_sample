@@ -100,7 +100,7 @@ Please select your language.[r]
 *tag_24
 [cm]
 [bg storage=24.png time=500]
-あなたは今島Bにいます。どの橋を渡りますか？[l][r]
+あなたは今島Cにいます。どの橋を渡りますか？[l][r]
 [link target=*tag_241] →橋1　[endlink][r]
 [link target=*tag_243] →橋3  [endlink][r]
 [s]
