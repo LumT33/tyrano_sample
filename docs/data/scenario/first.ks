@@ -225,7 +225,7 @@ You are on Island C. Which bridge do you want to cross？[l][r]
 *tag_241e
 [cm]
 [bg storage=241.png time=500]
-……Sorry,you didn't make across all the bridges……r]
+……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
 [jump target=*tag_english]
 *tag_243e
