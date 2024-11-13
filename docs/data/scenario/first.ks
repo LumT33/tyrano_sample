@@ -35,13 +35,15 @@
 *tag_132
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_134
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_14
 [cm]
 [bg storage=.png time=500]
@@ -52,13 +54,15 @@
 *tag_142
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_143
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_2
 あなたは今島Bにいます。どの橋を渡りますか？[l][r]
 [link target=*tag_23] →橋3　[endlink][r]
@@ -74,13 +78,15 @@
 *tag_231
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_234
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_24
 [cm]
 [bg storage=.png time=500]
@@ -91,13 +97,15 @@
 *tag_241
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 *tag_243
 [cm]
 [bg storage=.png time=500]
-……残念!全ての橋を渡りきれませんでした……。[r]
+……残念!全ての橋を渡りきれませんでした……。
 スタート画面に戻る[l][cm]
+[jump target=*start]
 
 *tag_rule
 [cm]
