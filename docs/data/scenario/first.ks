@@ -134,108 +134,108 @@ Please select your language.[r]
 [bg storage=0.png time=500]
 「The brigdges at Konigsberg that will never be completed」[l][r]
 
-[link target=*tag_start] →start　[endlink][r]
-[link target=*tag_rule] →rule   [endlink][r]
+[link target=*tag_starte] →start　[endlink][r]
+[link target=*tag_rulee] →rule   [endlink][r]
 [s]
-*tag_start
+*tag_starte
 [cm]
 [bg storage=0start.png time=500]
 You are on Island A. Which bridge do you want to cross？[l][r]
-[link target=*tag_1] →Bridge 1　[endlink][r]
-[link target=*tag_2] →Bridge 2  [endlink][r]
+[link target=*tag_1e] →Bridge 1　[endlink][r]
+[link target=*tag_2e] →Bridge 2  [endlink][r]
 [s]
-*tag_1
+*tag_1e
 [cm]
 [bg storage=1.png time=500]
 You are on Island C. Which bridge do you want to cross？[l][r]
-[link target=*tag_13] →Bridge 3　[endlink][r]
-[link target=*tag_14] →Bridge 4  [endlink][r]
+[link target=*tag_13e] →Bridge 3　[endlink][r]
+[link target=*tag_14e] →Bridge 4  [endlink][r]
 [s]
-*tag_13
+*tag_13e
 [cm]
 [bg storage=13.png time=500]
 You are on Island B. Which bridge do you want to cross？[l][r]
-[link target=*tag_132] →Bridge 2　[endlink][r]
-[link target=*tag_134] →Bridge 4  [endlink][r]
+[link target=*tag_132e] →Bridge 2　[endlink][r]
+[link target=*tag_134e] →Bridge 4  [endlink][r]
 [s]
-*tag_132
+*tag_132e
 [cm]
 [bg storage=132.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_134
+[jump target=*tag_english]
+*tag_134e
 [cm]
 [bg storage=134.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_14
+[jump target=*tag_english]
+*tag_14e
 [cm]
 [bg storage=14.png time=500]
 You are on Island B. Which bridge do you want to cross？[l][r]
-[link target=*tag_142] →Bridge 2　[endlink][r]
-[link target=*tag_143] →Bridge 3  [endlink][r]
+[link target=*tag_142e] →Bridge 2　[endlink][r]
+[link target=*tag_143e] →Bridge 3  [endlink][r]
 [s]
-*tag_142
+*tag_142e
 [cm]
 [bg storage=142.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_143
+[jump target=*tag_english]
+*tag_143e
 [cm]
 [bg storage=143.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_2
+[jump target=*tag_english]
+*tag_2e
 [cm]
 [bg storage=2.png time=500]
 You are on Island B. Which bridge do you want to cross？[l][r]
-[link target=*tag_23] →Bridge 3　[endlink][r]
-[link target=*tag_24] →Bridge 4 [endlink][r]
+[link target=*tag_23e] →Bridge 3　[endlink][r]
+[link target=*tag_24e] →Bridge 4 [endlink][r]
 [s]
-*tag_23
+*tag_23e
 [cm]
 [bg storage=23.png time=500]
 You are on Island C. Which bridge do you want to cross？[l][r]
-[link target=*tag_231] →Bridge 1　[endlink][r]
-[link target=*tag_234] →Bridge 4  [endlink][r]
+[link target=*tag_231e] →Bridge 1　[endlink][r]
+[link target=*tag_234e] →Bridge 4  [endlink][r]
 [s]
-*tag_231
+*tag_231e
 [cm]
 [bg storage=231.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_234
+[jump target=*tag_english]
+*tag_234e
 [cm]
 [bg storage=234.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_24
+[jump target=*tag_english]
+*tag_24e
 [cm]
 [bg storage=24.png time=500]
 You are on Island C. Which bridge do you want to cross？[l][r]
-[link target=*tag_241] →Bridge 1　[endlink][r]
-[link target=*tag_243] →Bridge 3  [endlink][r]
+[link target=*tag_241e] →Bridge 1　[endlink][r]
+[link target=*tag_243e] →Bridge 3  [endlink][r]
 [s]
-*tag_241
+*tag_241e
 [cm]
 [bg storage=241.png time=500]
 ……Sorry,you didn't make across all the bridges……r]
 Return to home[l][cm]
-[jump target=*start]
-*tag_243
+[jump target=*tag_english]
+*tag_243e
 [cm]
 [bg storage=243.png time=500]
 ……Sorry,you didn't make across all the bridges……[r]
 Return to home[l][cm]
-[jump target=*start]
+[jump target=*tag_english]
 
-*tag_rule
+*tag_rulee
 [cm]
 [bg storage=0.png time=500]
 There are three islands in the sea (Island A,B,C),and four bridges (Bridge1,2,3,4) connecting them.[l][r]
@@ -244,7 +244,7 @@ You cannot across a bridge once you have acrossed the bridge, there should not b
 You cannot swim. The only way to move among islands is to across bridges.[l][r]
 Can you across all the bridges by going through each one only once?[l][r]
 Return to home[l][cm]
-[jump target=*start]
+[jump target=*tag_english]
 
 
 
