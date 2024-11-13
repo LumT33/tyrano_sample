@@ -17,7 +17,7 @@ Please select your language.[r]
 
 [link target=*tag_start] →スタート　[endlink][r]
 [link target=*tag_rule] →ルール   [endlink][r]
-[link target=*tag_changeje] 使用言語を変更する [endlink][r]
+[link target=*tag_changeje] →使用言語を変更する [endlink][r]
 [s]
 *tag_start
 [cm]
