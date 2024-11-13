@@ -141,7 +141,7 @@ Please select your language.[r]
 
 [link target=*tag_starte] →START　[endlink][r]
 [link target=*tag_rulee] →RULE   [endlink][r]
-[link target=*tag_ej] →Change your language   [endlink][r]
+[link target=*tag_changeej] →Change your language   [endlink][r]
 [s]
 *tag_starte
 [cm]
