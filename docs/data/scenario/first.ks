@@ -10,6 +10,8 @@ Please select your language.[r]
 [link target=*tag_japanese] →日本語　[endlink][r]
 [link target=*tag_english] →English  [endlink][r]
 [s]
+[cm]
+
 *tag_japanese
 [bg storage=0.png time=500]
 「絶対にクリアできないケーニヒスベルクの橋」[l][r]
