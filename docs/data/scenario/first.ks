@@ -65,6 +65,7 @@
 [jump target=*start]
 *tag_2
 [cm]
+[bg storage=2.png time=500]
 あなたは今島Bにいます。どの橋を渡りますか？[l][r]
 [link target=*tag_23] →橋3　[endlink][r]
 [link target=*tag_24] →橋4 [endlink][r]
