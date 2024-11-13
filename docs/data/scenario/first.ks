@@ -127,7 +127,7 @@ Please select your language.[r]
 また海を泳ぐといった選択肢はありません。移動手段は橋を渡るだけです。[l][r]
 モレダブりなく全ての橋を渡り切ることができますか？[l][r]
 スタート画面に戻る[l][cm]
-[jump target=*start]
+[jump target=*tag_japanese]
 
 *tag_changeje
 [cm]
