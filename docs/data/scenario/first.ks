@@ -17,6 +17,7 @@ Please select your language.[r]
 
 [link target=*tag_start] →スタート　[endlink][r]
 [link target=*tag_rule] →ルール   [endlink][r]
+[link target=*tag_changeje] 使用言語を変更する [endlink][r]
 [s]
 *tag_start
 [cm]
@@ -128,14 +129,19 @@ Please select your language.[r]
 「Enter」でスタート画面に戻る[l][cm]
 [jump target=*start]
 
+*tag_changeje
+[cm]
+[jump target=*start]
+
 
 *tag_english
 [cm]
 [bg storage=0.png time=500]
 「The brigdges at Konigsberg that will never be completed」[l][r]
 
-[link target=*tag_starte] →start　[endlink][r]
-[link target=*tag_rulee] →rule   [endlink][r]
+[link target=*tag_starte] →START　[endlink][r]
+[link target=*tag_rulee] →RULE   [endlink][r]
+[link target=*tag_ej] →Change your language   [endlink][r]
 [s]
 *tag_starte
 [cm]
@@ -246,5 +252,8 @@ Can you across all the bridges by going through each one only once?[l][r]
 Return to home[l][cm]
 [jump target=*tag_english]
 
+*tag_changeej
+[cm]
+[jump target=*start]
 
 
